@@ -1,9 +1,9 @@
 # Mickael
 Mahasiswa Ilmu Komputer IPB
 
-*Jl Lagoa GG II A No.27*\
-*+62 822-9823-6595*\
-*michaeljaphar@yahoo.com*
+*Jl Lagoa GG II A No.27*\<br>
+*+62 822-9823-6595*\<br>
+*michaeljaphar@yahoo.com*<br>
 
 ## Pendidikan
 
